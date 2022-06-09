@@ -5,8 +5,6 @@ contentType: prose
 
 1/
 
-  
-
 Oskar Petrovi svou účast slavnostně slíbil (se známým patosem, který tak často provází pokročilou opilost) asi před třemi týdny hodinu po půlnoci ve svém oblíbeném baru Casablanca, kam dávného kamaráda z vojny při jeho pražské návštěvě na závěr zatáhl, aby si před svatbou ještě trochu užil. Teď však bylo půl sedmé ráno, Oskar byl zcela střízlivý a samozřejmě se mu nikam nechtělo. Ztratí kvůli té svatbě celé dva dny, říkal si rozespale, a další tři dny se pak bude v Praze léčit ze všech těch narychlo ohřátých párků, těžkých máslových dortů a vepřových řízků smažených na kachním sádle. Nevyspí se (znáte snad někoho, kdo se dokáže dobře vyspat pod půlmetrákovou duchnou nad sebou a ovčími kůžemi místo prostěradla pod sebou?), v koupelně nebudou čisté ručníky a na záchod bude muset chodit na dvůr do té strašlivé dřevěné _budky_, a to i v noci. Navíc tam kromě Petra a jeho rodičů nebude nikoho dalšího znát, takže většinu času prosedí v zajetí nějakého bodrého sedmdesátiletého nevěstina strýce, který mu bude několik hodin vyprávět, jak se nad údolím točí vítr a jakou by vnukovi koupil obracečku na seno, kdyby na ni měl. Jako by neznal vesnické svatby! Když mu před pár minutami zazvonil budík (o půldruhé hodiny dříve, než byl zvyklý vstávat), Oskar se za svůj neuvážený slib upřímně proklel a nějakou dobu vážně uvažoval, že bude ještě dvě hodiny spát a potom Petrovi zatelefonuje a nějak se vymluví – ale nakonec s hekáním přece jen vstal.
 
 Tak jo, mumlal odevzdaně. Tak jo.
@@ -31,9 +29,7 @@ Oskar nehnul brvou a vážně dívce poděkoval. Je to od ní velice milé. Pap
 
 Maruška už nic nedodala, ale bylo vidět, že ji to potěšilo.
 
-2/
-
-  
+## 2/
 
 Během oběda (byly vepřové řízky smažené na kachním sádle) Oskar nejprve s _chápavým zájmem_ vyslechl všechny problémy se vzrůstající nezaměstnaností v kraji a s nedávno zrušenými autobusovými spoji, o nichž mu poněkud strojeně – jako by byl příslušný ministr nebo přinejmenším novinář, který k nim přijel dělat reportáž – střídavě vyprávěli Petrovi rodiče. Když téma vyčerpali, Oskar zakontroval rafinovaně _protipražským_ vystoupením, v němž uctivě naslouchajícímu venkovskému publiku postupně vypočítal jednotlivé, údajně _už téměř nesnesitelné_ obtíže života v hlavním městě (nebyla to samozřejmě pravda; všechny jmenované problémy sice v Praze v různé míře skutečně existovaly, ale nesnesitelné Oskarovi ani zdaleka nepřipadaly): smog, dopravní kolaps, neprostupné zástupy zahraničních turistů, skandální ceny v obchodech a restauracích, vykrádání bytů, pouliční kriminalita, války balkánských a jiných mafií odehrávající se za denního světla přímo na ulicích… Nakonec, aby stísněnou atmosféru trochu uvolnil (a částečně i kvůli přítomné Marušce), dal k lepšímu několik zábavných, byť rovněž ne vždy zcela pravdivých historek ze života pražské kulturní smetánky; všiml si přitom, že kdykoli vyslovil jméno některého známého herce nebo herečky, obě tety si pokaždé vyměnily krátký pohled a jedno obzvlášť slavné jméno po Oskarovi dokonce nahlas opakovaly.
 
@@ -67,9 +63,7 @@ Její odpověď všechny přítomné velmi pobavila.
 
 „Dívejte, v čem jede Maruš na trávu!“ volaly tety jedna přes druhou.
 
-3/
-
-  
+## 3/
 
 Velkoryse přenechal dětem místo na kozlíku vedle Petra a přisedl si k Marušce na zadní okraj valníku. Po jejím vzoru spustil nohy dolů a s poněkud infantilní radostí pak pozoroval, jak se při přejezdu každé nerovnosti na cestě okamžitě rozkývají. Potom se začal Marušky vyptávat na věci kolem koní (všiml si už předtím, s jakou zručností upínala koňům všechny ty složité kožené popruhy), ale přestože i tentokrát snaživě předstíral zájem a dával si pozor, aby se v jeho hlase neobjevil ani náznak čehokoliv, co by si Maruška mohla vyložit jako přezíravost, odpovídala mu velmi zdráhavě – jako by se navzdory jeho snažení skutečně bála, že se jí svými otázkami posmívá. Změnil tedy téma a zeptal se jí, do jaké chodí školy. – Na obchodní akademii, dostalo se mu stručné odpovědi. – Skutečně? A kde? – Tady. Ve městě. – Do kterého ročníku, jestli se může zeptat? – Do čtvrtého.
 
@@ -89,9 +83,7 @@ Naklonil se k Marušce a rty se lehce dotkl jejího ucha.
 
 Maruška zčervenala.
 
-4/
-
-  
+## 4/
 
 Večer se Petr loučil v místním hostinci se svobodou. Oskar se snažil mezi všechny ty opilé povykující mládence zapadnout, ale příliš se mu to nedařilo. Uměl být veselý společník a zábavný vypravěč, ale k tomu potřeboval publikum, v němž byly alespoň nějaké ženy – a právě ty tu nyní zcela scházely. Usrkával pivo a později i becherovku, usmíval se na Petra, který jej střídavě oslovoval _soudruhu četaři!_ a _Mistře!_, převyprávěl několik drsných anekdot, smál se společně s ostatními, ale v duchu se nudil.
 
@@ -137,9 +129,7 @@ Oskar povystrčil jazyk a zakmital jeho špičkou.
 
 „Já totiž pracuju líp s jazykem…“
 
-5/
-
-  
+## 5/
 
 Přestože v celém domě vládl už od časného rána zmatek a hluk, Oskar se probudil teprve v půl deváté. Potěšeně si uvědomil, že ho kupodivu nebolí hlava.
 
@@ -153,9 +143,7 @@ Hanička družička ani nepípla – natož aby běžela telefonovat na Linku b
 
 „Ty levisky, to jsou pět set jedničky?“ chtěla vědět. „Přesně takový bych chtěla! Jé, a můžu si pak čuchnout k tý tvý voňavce?“
 
-6/
-
-  
+## 6/
 
 Prostřená svatební tabule ve vyklizené a příslušně vyzdobené stodole měla tvar písmene U. Na čestná čelní místa byli usazeni nejen nevěsta s ženichem a jejich rodiče, ale překvapivě i Oskar s Maruškou. Početné příbuzenstvo obou rodin sedělo po stranách dlouhých stolů; Oskar odhadoval, že je tu tak osmdesát devadesát hostů. Poznával několik Petrových příbuzných, s nimiž se dnes ráno srazil v domě, a také mládence ze včerejšího večera, ale naprostou většinu lidí podle očekávání neznal.
 
@@ -177,9 +165,7 @@ _Když pak nevěsta obnaží svoje vnady / hned má krtka u zahrady_, zněl jed
 
 Maruška zčervenala.
 
-7/
-
-  
+## 7/
 
 Ze svatební hostiny začínající v pravé poledne obědem a končící hluboko v noci druhou večeří měl Oskar původně obavy. Při nejlepší vůli si nedokázal představit, jakým způsobem přežije těch deset či dokonce dvanáct hodin, které bude muset v oné monstrózní stodole strávit, aby svým předčasným odchodem někoho smrtelně neurazil – ale nakonec to bylo snazší, než čekal. Než skončil oběd o několika chodech, byly už skoro tři, a zbytkem odpoledne se pak doslova protancoval. Tančil postupně s nevěstou, s její matkou, s matkou Petra a s oběma veselými tetami, došel pro několik žen z „nevěstina“ křídla tabule,provedl všechny družičky od dvou let výše (Haničku se marně pokoušel naučit tango) a opatrnou taneční variaci předvedl dokonce i s Petrovou babičkou. Samozřejmě tančil i s Maruškou: poprvé ještě trochu toporně, ale potom jí jednou pro vždy vnutil _svou_ verzi valčíku a polky a následně to několikrát roztočili tak, že sklidili obdivný potlesk.
 
@@ -191,9 +177,7 @@ Po desáté hodině řady svatebních hostí přece jen prořídly. Oskar byl op
 
 Oskara zavalila vlna upřímného vzteku. Motal se po mokrém trávníku a polohlasně Marušce nadával. Nakonec se vymočil, když už byl jednou venku, a otráveně se dovlekl nazpět ke stolu. Maruška mezitím odjela – Říhovi měli v autě místo, a tak ji prý vzali, vysvětlil mu Petr jakoby trochu omluvně. Ať se na ni Oskar vysere, asi to fakt nemá cenu, řekl. Asi fakt bude svatá.
 
-8/
-
-  
+## 8/
 
 Zhruba o týden později našel Oskar ve schránce poněkud tuctovou pohlednici s několika fotografiemi _přírody Českomoravské vysočiny_:
 
@@ -241,9 +225,7 @@ Záměrně zachovával jistý odstup.
 
 Nevadilo by mu – jestli ano, ať jí to klidně řekne, ona už si nějak poradí – tedy nevadilo by mu, kdyby u něj ona, Maruška – samozřejmě jenom den nebo dva, než si sežene nějakou dobrou práci, kde dávají i ubytovnu – bydlela?
 
-9/
-
-  
+## 9/
 
 Když Oskar Marušku spatřil, jak se k němu s úsměvem proplétá mezi lidmi v hale na Hlavním nádraží (ve světle modrém baloňáku, jaké se nosily někdy počátkem osmdesátých let, a s ošklivým koženkovým kufrem v ruce), překvapila ho její veselá bezstarostnost. Po jejím telefonátu podvědomě očekával, že spatří jakousi hromádku neštěstí s obvázanými šlachami na zápěstích, ale místo toho tu byla sice špatně oblečená, ale jinak krásná dívka se zářícíma očima plnýma elánu.
 
@@ -261,9 +243,7 @@ Oskar pokýval hlavou. To musel být prima výlet, poznamenal. – Ano, souhlas
 
 „Nejeli. Já jsem ještě nikdy nejela!“
 
-10/
-
-  
+## 10/
 
 Oskarův staromládenecký, nedávno kompletně zrekonstruovaný byt se Marušce údajně docela líbil – pouze jí připadal _maličko chudý_. Oskar sice tušil, co Maruška v jeho bytě postrádá – všechny ty chem­lonové gobelínky, vitríny plné obřích číší a zlaceného porcelánu, malované nástěnné hodiny a další interiérové okrasy – ale v souvislosti s cenou rekonstrukce, kterou se před ní ani neodvažoval vyslovit, ho adjektivum _chudý_ upřímně pobavilo.
 
@@ -313,9 +293,7 @@ Maruška poznala, že se zlobí, a plaše se dotkla jeho předloktí. Ať se na
 
 Maruška se na Oskara podívala svýma hlubokýma bezelstnýma očima. Proč by kydání hnoje bylo ponižující? Bylo to jenom velice namáhavé, takže si, jak už Oskarovi říkala, přivodila na obou zápěstích zánět šlach.
 
-11/
-
-  
+## 11/
 
 Oskar chtěl původně Marušku ještě týž večer představit jednomu ze zmíněných fotografů, takže nyní musel domluvenou schůzku zrušit. Použil telefon v pracovně, aby ho Maruška neslyšela.
 
@@ -333,9 +311,7 @@ Fotograf se krátce odmlčel.
 
 „Tak to ti fakt závidim, vážně,“ řekl po chvíli fotograf. „Já už poslední roky píchám akorát samý ctižádostivý kurvy.“
 
-12/
-
-  
+## 12/
 
 Oskar se rozhodl, že na večeři půjdou do oné nové pizzerie, kde večeřel před třemi dny. Rozhodně nechtěl, aby ho s Maruškou přistihl někdo z jeho známých, a spoléhal na to, že podnik ještě dostatečně nevešel ve známost (on sám jej koneckonců objevil víceméně náhodně), takže riziko nějakého nežádoucího setkání zde bude přece jen o něco nižší než jinde.
 
@@ -369,9 +345,7 @@ Oskar si ji přitáhl k sobě a – částečně i proto, aby ji umlčel –
 
 Maruška mu polibek vrátila s nečekanou vášní.
 
-13/
-
-  
+## 13/
 
 Doma si ubalil jointa. Maruška přirozeně se smíchem odmítla, ale zaujatě Oskarovo počínání pozorovala. Pobavilo ji, že se marihuaně říká _tráva_.
 
@@ -391,9 +365,7 @@ Maruška nevěděla.
 
 „Béda Trávníček,“ řekl Oskar.
 
-14/
-
-  
+## 14/
 
 O něco později ji požádal, aby se před ním svlékla.
 
@@ -435,9 +407,7 @@ Neodpověděla.
 
 Hněvivě vstal a odešel do ložnice. Práskl za sebou dveřmi, svlékl si kalhoty a ponožky, zhasl a svalil se na postel. Pokusil se uspokojit sám, ale neustále ho přitom rušily Maruščiny zadržované vzlyky, a tak vzdal i to. Vzápětí usnul.
 
-15/
-
-  
+## 15/
 
 Ráno ho probudily zvuky, které zprvu nedokázal identifikovat. Nadzvihl se na polštáři a zaposlouchal se pozorněji: Maruška myla nádobí. Kuchyňská linka obsahovala vestavěnou myčku, ale i kdyby ji bývala objevila, uvědomil si Oskar, stejně by ji neuměla zapnout. Vzdychl a zabořil hlavu nazpět do polštáře.
 
@@ -461,9 +431,7 @@ V hrnci, který odklopil, byly opečené brambory a vajíčka na slanině. Dá
 
 „Nejsem,“ řekla. „Já dobře vím, že nejsem.“
 
-16/
-
-  
+## 16/
 
 Po snídani došel Oskar koupit několikery noviny a poslední výtisk Annonce a pustili se s Maruškou do pročítání inzerátů. Jejich představy se ovšem rozcházely i tentokrát: pracovní místa, která Oskarovi připadala alespoň jakž takž zajímavá, Maruška se smíchem odmítala, a sama si naopak zatrhávala či vystřihovala většinou takové inzeráty, které předtím Oskar bez zájmu přešel.
 
@@ -475,9 +443,7 @@ Marušku to kupodivu nijak neznepokojovalo. No co, alespoň to zkusí, švitoři
 
 No a proč ne? pravila Maruška. Kdo ví, třeba by se jí tam žilo hezky. Anebo by mohla jet za Helenou do Kroměříže!
 
-17/
-
-  
+## 17/
 
 Potom ale objevila zajímavý inzerát.
 
@@ -501,9 +467,7 @@ Oskar kývl, ale rostlo v něm jakési divné podráždění.
 
 Už to všechno chtěl mít z krku.
 
-18/
-
-  
+## 18/
 
 Na oběd šli do nejbližší restaurace. Během jídla Oskar většinou mlčel; aby to aspoň částečně napravil, koupil pak Marušce v nedalekém knihkupectví plán Prahy. Maruška mu upřímně děkovala. Vrátili se domů, Maruška si sbalila věci a Oskar mezitím objednal taxík. V taxíku jí potom podrobně vysvětlil, jak se zítra ráno dostane do nového zaměstnání, a požádal ji, aby mu odpoledne určitě zavolala, jak všechno šlo. Někdy v příštím týdnu by spolu mohli jít třeba do kina, navrhoval.
 

@@ -5,8 +5,6 @@ contentType: prose
 
 1/
 
-  
-
 Oskar vzhlédl od novin k proskleným dveřím kavárny právě ve chvíli, kdy se v nich objevila Vanda. Rozhlížela se po sále, ale zatím ho ještě nespatřila. Oskar odložil noviny, zdvihl ruku a držel ji nahoře, dokud si ho Vanda nevšimla, a potom se s úsměvem díval, jak se k němu jeho dlouholetá kamarádka blíží uličkou mezi stolky. Ve svých dvaatřiceti byla dosud velmi štíhlá, ale pořád dělala ty komické _přehlídkové_ kroky a příliš široký úsměv jí jako vždycky nehezky obnažoval dásně. Měla dlouhé nohy, ale na Oskarův vkus poněkud hubené a šlachovité, a bohužel i taková ta podivně špičatá kolena. Světlé, trochu řídké vlasy měla i dnes pečlivě uhlazené a jakoby úplně přilepené k hlavě – když si kdysi všiml, jak pod nimi Vandě prosvítá bledá kůže lebky, skoro ho to vyděsilo. Nyní ale s pozorností doslova starosvětskou vstal, políbil Vandu přátelsky na obě tváře, pomohl jí z kabátu a dvorně jí odsunul židli.
 
 „Ahoj,“ usmívala se.
@@ -19,9 +17,7 @@ To, že se Vanda Oskarovi nelíbila, vůbec neznamenalo, že by byla ošklivá; 
 
 Když se toho večera loučili (samozřejmě že nakonec odcházeli opět každý zvlášť), zajel jí dlaní pod tvídovou sukni, jejíž střih si sama navrhla, a stiskl jí studenou půlku toho jejího plochého zadku. Nebylo mu to nijak nepříjemné, a navíc si říkal, že Vandu tahle důvěrnost spíš potěší, než urazí.
 
-2/
-
-  
+## 2/
 
 Vandu to tenkrát skutečně spíše potěšilo. Samozřejmě už od samého počátku jejich ryze přátelského vztahu dobře věděla, že Oskarovi do oka příliš nepadla, ale období, kdy se tím trápila, už měla víceméně za sebou. Oskarova předstíraná fyzická náklonnost a zejména ona jeho okázalá, jakoby komusi na odiv se stavící ušlechtilost (_Hle, jak pěkně se k té ženě chovám, ačkoliv se mi nelíbí…_) ji zprvu pochopitelně zraňovaly a ponižovaly, ale nakonec si řekla, že lepší trochu usilovná náklonnost než vůbec žádná. To, že Oskar ve vztahu k ní poněkud přehrává, ji sice dodnes tu a tam zabolelo, ale na druhé straně to bylo pořád snesitelnější, než kdyby ji jak se říká přehlížel jako krajinu. Měla ho docela ráda. Byl to koneckonců spolehlivý, milý a vtipný kamarád, navíc známý spisovatel – a tu trochu neupřímnosti mu dokázala odpustit. Což to ostatně nedělal jen z ohleduplnosti? Nejenže se postupně smířila s nevděčnou rolí Oskarovy platonické přítelkyně, jež musí několikrát měsíčně naslouchat jeho vyprávění o té či oné nové dívce (a ještě se přitom tvářit příslušně pobaveně), ale dnes se mu dokonce chystala jednu takovou dívku sama předhodit.
 
@@ -51,9 +47,7 @@ Dívky, s nimiž Vandu občas potkával, bývaly vyšší než on.
 
 „Radši s tím počítáním počkej, dokud neuvidíš ty její kramfleky!“ škádlila ho Vanda.
 
-3/
-
-  
+## 3/
 
 Nebyla to však zdaleka jen výše Renátiných podpatků, co v kavárně při jejím příchodu vzbudilo takový rozruch, ale i ty černé elastické kalhoty, jež jí těsně obepínaly klín i boky, a především ono kratičké bílé tílko bez ramínek, šokující měrou obnažující do sněda opálené břicho, ňadra a ramena. _Výstředně hezká,_ připomněl si Oskar Grahama Greena. Vypadala jako dívka z titulní strany letního katalogu nějaké cestovní kanceláře, specializující se na cesty za exotikou – tam by se hodila, ne sem. V městské kavárně uprostřed ledna bylo v jejím zjevu cosi nepatřičného, téměř nelidského.
 
@@ -97,15 +91,11 @@ Zatímco Oskar vyprávěl, nepřestával si Renátu prohlížet. Líbilo se mu n
 
 „Kytičku jahod na rty přitiskla mi, voněla červnem, hřála pasekami,“ zarecitoval Oskar ironicky, ale v jeho těle ještě dlouhé minuty doznívalo dávno nepoznané vzrušení.
 
-4/
-
-  
+## 4/
 
 „Tvé velkorysé gesto je důkazem, že přátelství mezi mužem a ženou skutečně _může_ existovat,“ řekl Oskar Vandě, když byla Renáta na toaletě, a krátce jí pohladil nehezké kostnaté předloktí (narážel tím na jejich prastarou debatu na toto téma, během níž mu Vanda citovala Andreho Mauroise: Přátelství mezi mužem a ženou neexistuje; buďto totiž jeden z partnerů považuje toho druhého za sexuálně málo přitažlivého, což je pro onoho druhého nešťastníka, ať už si to přizná nebo ne, natolik ponižující a urážlivé, že se to se skutečným přátelstvím víceméně vylučuje – anebo se oba naopak sexuálně přitahují, takže jejich „přátelství“ dříve či později nevyhnutelně _přepadne přes pelest postele_, měníc se tak v cosi zcela jiného…). Vanda sice naoko polichoceně přikývla, ale ve skutečnosti si to nemyslela. Jak tak během uplynulé hodiny sledovala Oskarovo plíživé dvoření i onu nebývalou energii, s níž Renátě vyprávěl všechny ty staré historky (pokaždé se sice Vandě omlouval, že danou historku už slyšela, a alibisticky se dožadoval jejího svolení, _jestli ji může ještě jednou znudit_, ale Vanda správně tušila, že ve skutečnosti mu na její odpovědi ani za mák nezáleží), spíše si znovu potvrzovala, že André Maurois měl pravdu. Uvědomila si, že v takové formě, v jaké je Oskar dnes, ho snad ještě nikdy neviděla – což bohužel nemohlo znamenat nic jiného, než že _s ní_ jede Oskar vždycky jen na půl plynu. Usilovně předstírala, že i ona se skvěle baví, že i ona si připadá krásná a žádoucí a že nevidí, jak nespravedlivě rozděluje Oskar svou přízeň a své pohledy, ale kdesi v okolí žaludku jí znovu začal rašit známý pocit hořkosti a urážky. Co ji však bolelo vůbec nejvíc, bylo vědomí, že Oskar o všech těchto jejích pocitech samozřejmě dobře ví – a přesto se i nadále pokrytecky spokojuje s čím dál formálnějšími projevy svého takzvaného přátelství.
 
-5/
-
-  
+## 5/
 
 Když společně vypili dvě láhve vína, Renáta projevila přání _jít si někam pořádně zatancovat_. Když to říkala, dívala se Oskarovi přímo do očí.
 
@@ -125,9 +115,7 @@ Věděla, co řekne: Mazurka.
 
 Účet zaplatil Oskar (s Vandou si účet většinou dělili napůl) a vyrazili. Na ulici se do něho Renáta zcela samozřejmě zavěsila, takže Oskarovi nezbylo, než nabídnout druhé rámě Vandě. Měl přímo báječnou náladu. Těšil se z mrazivého nočního vzduchu, z obdivných pohledů turistů a v neposlední řadě z toho, jak Renátino ňadro pružně tlačí na jeho paži. Když za zvuků písně YMCA a s těmi krásnými dívkami po boku vstupoval do baru, který Renáta vybrala (o její kráse nebylo pochyb a Vandu tentokrát hodnotil spíše očima výše zmíněných turistů), cítil se bez nadsázky jako nějaký král. Zaplatil vstup a se starosvětskou dvorností pomohl dívkám z kabátů.
 
-6/
-
-  
+## 6/
 
 Všechny stoly byly obsazené, takže se posadili přímo k baru. Mladý barman s dlouhými světlými vlasy staženými do culíku Renátu políbil na tvář a Vandě s Oskarem popřál dobrý večer. Co si dají?
 
@@ -173,9 +161,7 @@ Vanda sklouzla z barové stoličky.
 
 Sotva odešla, Oskar se dotkl Renátiných nahých zad a dvěma prsty jí zlehka obkresloval jednotlivé obratle. Přivřela oči a tělem mu vyšla vstříc. Nedokázal už odolat a prostředníčkem jí na pár vteřin zajel pod okraj kalhotek; trochu se obával její reakce, ale ona pouze zvrátila hlavu vzad a tiše zavrněla.
 
-7/
-
-  
+## 7/
 
 Když ji o půl hodiny později vyzval k tanci, postřehnutelně zaváhala – ale nakonec šla.
 
@@ -209,9 +195,7 @@ Oskar cítil podivnou agresivitu – vůči tomuhle podniku, vůči Vandě, a 
 
 „Omluv mě,“ řekl Vandě, aniž se na ni podíval, a šel na záchod.
 
-8/
-
-  
+## 8/
 
 Když si myl ruce a nespokojeně si prohlížel v zrcadle zpocenou tvář a zarudlé oči, do sněda opálený muž u sousedního umývadla na něho náhle přátelsky kývl. Oskar pochopil, že je to jeden z oněch dvou mužů, které před chvílí sledoval u baru. Byl starší než Oskar, ale ne o mnoho; na sobě měl ležérně volný tmavý oblek a bílou košili s širokou rozhalenkou.
 

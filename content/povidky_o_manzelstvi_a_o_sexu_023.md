@@ -5,8 +5,6 @@ contentType: prose
 
 1/
 
-  
-
 Nyní se už ona hnědovlasá štíhlá dívka na Oskara zeširoka usmívala jako na svého dobrého známého, ale Oskar si před chvílí při svém příchodu dobře všiml, jak se v její hezké tvářičce nejprve objevilo jakési bezmála smrtelné leknutí a jak hned vzápětí cosi pošeptala své kolegyni. Líbila se mu, a tak její úsměv opětoval. I on sám měl neodbytný pocit, že ji odkudsi zná, jenomže ve stavu, v jakém se nacházel, si ji při nejlepší vůli nedokázal nikam zařadit. Nevadí, říkal si opile, všechno se v pohodě vyřeší.
 
 Pozdravil postarší barmanku, která právě ukládala kartony s krabicovým džusem do velké vestavěné lednice, a poněkud rozverně se vyhoupl na jednu z vysokých barových stoliček; zapotácel se, ale nakonec rovnováhu udržel. Dívku prozatím ignoroval, neboť ze zkušenosti věděl, že za ním stejně přijde sama – tohle bylo v bordelu jednoduché. V sále panovalo obvyklé přítmí a ostré světlo z otevřené lednice Oskara nyní trochu bodalo do očí. Otočil se na opačnou stranu: v protějším rohu popíjel jediný další zákazník, asi šedesátiletý, německy mluvící muž s prořídlými rezavými vlasy. Byl v tmavém obleku, ale košili měl rozepnutou až na břicho a jeho kravata visela přes opěradlo křesla (její vzorek, všiml si Oskar, vůbec neladil s potahovou látkou); kolem něj seděly další čtyři dívky, z nichž přinejmenším dvě byly mladé a vcelku pohledné. Na tak malé město to tu vypadalo nečekaně dobře. Oskar se spokojeně otočil nazpět k barmance.
@@ -107,9 +105,7 @@ Sám slyšel, že jeho výslovnost nebyla zcela bezchybná.
 
 „Jen běžte, přinesu ti to,“ řekla barmanka. Zasmála se: „Určitě si máte s panem učitelem co vyprávět…“
 
-2/
-
-  
+## 2/
 
 Oskar si sedl zády ke zdi, aby viděl na bar a neztratil přehled, co se v sále děje. Simona okamžik vyčkala, zda ji Oskar vybídne, aby si sedla vedle něho, ale když se tak nestalo, sedla si naproti němu a s naučenou elegancí si přehodila nohu přes nohu – Oskar zahlédl okraj punčoch a bílé podvazky. Vždycky se domníval, že mu tyhle krajkové výmysly nic neříkají, ale nyní si překvapeně uvědomil, že ho to docela zaujalo.
 
@@ -321,9 +317,7 @@ Posadila se na samý kraj pohovky, a dokonce se už vzepřela na rukou, aby mi 
 
 S úsměvem vstala, uchopila sklenici, volnou rukou si upravila šaty a přešla k Oskarovi; když si sedala, parodicky zavrtěla zadečkem a on ji přes něj plácl.
 
-3/
-
-  
+## 3/
 
 Vyprávěli si různé školní historky; Oskarovi, který pil už jen minerálku a pomalu střízlivěl, přitom neušlo, že čím hlasitější byly výbuchy Simonina smíchu a čím těsněji se k němu tiskla, tím zachmuřenější byla barmanka. Další koktejl postavila na stůl bez jediného slova, a dokonce ani nepřikývla, když jí Simona poděkovala.
 
@@ -365,9 +359,7 @@ Ještě to nečekal – připadal si náhle příliš střízlivý.
 
 „Určitě,“ řekl a snažil se, aby to znělo co možná sebejistě. „Ale nejdřív mi objednej ještě jednoho jamesona.“
 
-4/
-
-  
+## 4/
 
 Pokoj byl rohový, překvapivě velký; v narudlém přítmí se vznášela příjemná, byť samozřejmě umělá květinová vůně. Levé polovině dominovalo obrovské kruhové dvojlůžko, na stěně za ním bylo obvyklé zrcadlo. Luxusní rohová vana s vířivkami a velké bílé osušky na chromovaných věšácích v protější části pokoje alespoň trochu vysvětlovaly částku, kterou musel Oskar před chvílí barmance zaplatit.
 

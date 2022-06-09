@@ -3,8 +3,6 @@ title: Vliv tequily     na amygdalu známé osobnosti
 contentType: prose
 ---
 
-  
-
 Telefon zazvonil ve čtvrt na devět.
 
 Oskar se rozhodl, že ho nezvedne, ale při druhém zazvonění dívka ležící vedle něj zasténala a přikryla si rozcuchanou hlavu polštářem. Všiml si, že má na nahých zádech několik červených pupínků. Posadil se na posteli a žaludek se mu zhoupl. Krk měl celý ztuhlý, vlasy zpocené (zhruba před hodinou si musel vzít dva paraleny). Hlava ho dosud bolela, ale naštěstí už ne tolik. Několikrát si odkašlal a zahýbal svaly kolem úst.

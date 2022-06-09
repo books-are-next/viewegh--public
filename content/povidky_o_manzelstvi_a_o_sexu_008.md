@@ -3,8 +3,6 @@ title: "Jeden z\_posledních hezkých dní"
 contentType: prose
 ---
 
-  
-
 Léto prakticky skončilo. Oskar se Zuzanou byli na jezu úplně sami. Zuzana ležela na zádech; oči měla zavřené. Jez hučel.
 
 Oskar se obrátil na břicho, ruce si založil pod bradou a čekal, kdy se v ohybu řeky objeví některá z posledních letošních lodí. Hladina se stříbřitě leskla, takže musel mhouřit oči. Slunce už ale ztrácelo sílu, i když vůni pryskyřice z Oskarova kajaku ještě pořád uvolnit dokázalo.

@@ -3,13 +3,9 @@ title: Instantní manželka
 contentType: prose
 ---
 
-  
-
 Když v sobotu asi hodinu po poledni vysypal do hrnce vroucí vody sáček s _Čínskou polévkou s houbami_, uvědomil si Oskar překvapeně, že onu nanejvýš podivnou vůni, která mu okamžitě naplnila nos, důvěrně zná. Zdálo se to neuvěřitelné, ale – Oskar ještě jednou nasál výpary z hrnce – bylo to tak: takhle byl cítit pot jeho bývalé ženy. Ano, byla to přesně ta trochu štiplavá, ale ne nepříjemná vůně, kterou ještě před třemi roky (a předtím plných dvanáct let) čichal ze Zuzaniných ručníků na aerobic, z jejího prádla visícího na dveřích v koupelně nebo z podpaží její noční košile.
 
 Odstavil polévku z rozpáleného sporáku a potom dlouho nerozhodně zíral do téměř prázdné lednice: jedno jediné vejce, prošlý smetanový jogurt, sardinky v oleji, francouzská hořčice, načatá sklenice s olivami a dvě už trochu svraštělá rajčata. Ne že by zapomněl na víkend nakoupit – prostě vědomě nenakoupil. Vykašlal se na to, protože se mu nechtělo obouvat, jít ven a mluvit s prodavačkou. Už několik dnů byl v jakémsi podivném útlumu a nedokázal se přimět k základním věcem – například uklidit, přestože věděl, že nepořádek v bytě, kde trávil celé dny, jeho sklíčenou apatii ještě více prohloubí. Věděl také, že kdyby se naopak konečně vzchopil a uklidil, bezpochyby by to jeho momentální náladě prospělo. Vždycky, když utřel prach, vyluxoval a vytřel v kuchyni nebo když alespoň vyndal čisté nádobí z myčky, cítil jisté malé uspokojení. Rád také věšel vyprané prádlo na rozkládací sušák, a měl-li příslušnou náladu, dokonce i rád žehlil – byl to způsob, jak vcelku smysluplně vyplnit kus odpoledne či podvečera, když zrovna neměl co dělat. Pustil si rádio, otevřel si vychlazenou sedmičku bílého vína a žehlil. Občas žehličku odložil na žulovou desku kuchyňské linky, zesílil hudbu, shodil sandály a šel si do předsíně zatancovat. Někdy během žehlení stihl vypít celou láhev.
-
-  
 
 Znovu si přičichl k hrnci. Panebože, byla to opravdu _její_ vůně! Pochopil, že polévku nebude schopen sníst. V náhlém popudu hrnec podrážděně popadl, nastříkal dovnitř zcela neúměrné množství saponátu, vylil jej do záchodové mísy a spláchl.
 
