@@ -3,8 +3,6 @@ title: Otázka
 contentType: prose
 ---
 
-  
-
 Přišlo léto, ale Oskar už byl ženatý. Kočárek tlačil jednou rukou, jako by chtěl světu naznačit, že se to všechno stalo příliš brzy.
 
 Před přejezdem se zastavil, neboť už z dálky slyšel vlak. Byl bos a jemný, teplý prach polní cesty mu protékal mezi prsty. Obilí bylo nízké, většinou ještě zelené; za tratí pole přecházelo v louku svažující se dolů k řece. Dříve tam často chodíval – ke starému rozbitému jezu. Sedával uprostřed betonové průrvy na velkém žulovém balvanu a voda se mu tříštila o opálená záda. Slyšel jen hukot vody, jinak nic; občas ucítil, jak mu do zad narazila proudem unášená větévka. V hlubokém vratném proudu pod balvanem se s oblibou točívaly dvě pražské dívky, jejichž rodiče měli nad jezem chaty. Oskar si někdy v polospánku připomínal jejich jakoby měkké, líné pohyby.

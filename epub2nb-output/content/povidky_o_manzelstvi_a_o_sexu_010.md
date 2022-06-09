@@ -3,8 +3,6 @@ title: Nos
 contentType: prose
 ---
 
-  
-
 Když se Oskar jednoho časného červnového sobotního rána obracel v posteli a spánkem opuchlýma očima krátce pohlédl na svou dosud spící manželku, na okamžik mu blesklo hlavou, že její obličej je spíše ošklivý, ačkoli jej vždycky považoval za docela hezký. Proboha, ten nos! Jak to, že si nikdy nevšiml, jak veliký a špičatý má jeho žena nos?! Zavřel raději oči, zabořil tvář do polštáře a zkoušel ještě na chvíli usnout, ale to, co před okamžikem zahlédl, mu stále vrtalo hlavou. Snažil se ten téměř krutý obraz považovat pouze za další z oněch běžných ranních nepříjemností, jako jsou přeleželé vlasy, špatný dech nebo ospalky v očích, zkrátka věcí, které člověka sice občas iritují, ale které po deseti minutách strávených v koupelně víceméně spolehlivě zmizí – ale cítil, že obelhává sám sebe. Tušil už, že tohle nebude ten případ.
 
 Nazdvihl se na loktech a zadíval se na Zuzanin nos ještě jednou, tentokrát pozorněji. To, co spatřil, ho definitivně probudilo: nos byl neuvěřitelně veliký a špičatý, s obrovskými tmavými dírkami, a nehezky dominoval celému obličeji. Oskar byl zděšen. Sotva mohl předpokládat, že jí ten strašlivý frňák narostl přes noc – tak jak to, že si toho nevšiml dříve? Copak byl úplně slepý?

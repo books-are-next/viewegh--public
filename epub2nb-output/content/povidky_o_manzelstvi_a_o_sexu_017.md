@@ -5,8 +5,6 @@ contentType: prose
 
 1/
 
-  
-
 Za sedm týdnů jejich tajného vztahu to byla první společná noc, takže si nemohli dovolit ztrácet čas: svlékat se začali už na chodbě. Do pokoje se připotáceli téměř nazí, s dvěma překážejícími chumly šatstva v náručích. Oskar padl zády na postel a Monika se nad něho obkročmo postavila; vzepřel se na lokti a volnou rukou si ji stáhl na obličej. Ona ani on, jak si svěřili později, dosud nic podobného nezažili. Monika se vzpínala nad jeho ústy a křičela tak silně, jako kdyby se ve studené řece pod okny hotelového pokoje právě topil její čtyřletý syn.
 
 Tahle jediná noc způsobila, že se v příštích dnech a týdnech oba přestali kontrolovat: Monika o Oskarovi pod nejrůznějšími záminkami mluvila přímo před Kamilem, svým manželem a Oskarovým dlouholetým kamarádem (nemůže si prý pomoct, vysvětlovala zděšenému Oskarovi, někdy prostě _musí_ jeho jméno vyslovit…), a Oskar zase nevysvětlitelně často Monice telefonoval, doufaje přitom, že Kamil nebude doma. Jednou se neovládli vůbec a v pravé poledne se líbali v přeplněné městské kavárně.
@@ -23,9 +21,7 @@ Monika mu odhodlaně hleděla do tváře. Lidé s plnými nákupními taškami 
 
 Tohle je možná nejlepší ženská mého života, uvědomil si Oskar. Jenomže patří někomu jinému.
 
-2/
-
-  
+## 2/
 
 Společná dovolená – ukázalo se brzy – nebyl šťastný nápad. Oskar vzal s sebou Evu, docela hezkou a navíc celkem chytrou devatenáctiletou studentku, s níž se kdysi seznámil po jednom z autorských čtení; choval se k ní co možná mile, na pokoji si ji občas vesele dobíral, ale žádnou velkou lásku k ní necítil. Nejspíš vůbec nic nepoznala, ale přesto si vyčítal, že ji do toho zatáhl. S Monikou se nyní viděli šestnáct hodin denně: společně snídali, obědvali, koulovali se a dokonce spolu občas jezdili na vleku, kde se pokradmu dotýkali zkřehlými prsty, ale paradoxně se cítil spíš hůř než líp. Monice pod lyžařskou čepicí pokaždé slehl účes a nos měla od mrazu komicky červený, ale Oskarovi připadalo, že nikdy ve svém životě nepoznal krásnější ženu. Každý večer, když s Evou po boku vcházel do hotelové jídelny, ze všeho nejdříve vyhledal Moniku očima; když bylo její místo u stolu dosud prázdné, žaludek se mu sevřel žárlivostí a steskem. Za chvíli s Kamilem přišla – v čistém tričku, s čerstvě umytými, často ještě vlhkými vlasy, ústa lehce obtažená rtěnkou… Oskar ztrácel řeč a krev mu nezadržitelně stoupala do tváří.
 
@@ -35,9 +31,7 @@ Jak na to proboha přišel? pravila Monika _pobaveně_, ale srdce se jí poplaš
 
 To bylo všechno, ale Oskara to upřímně vyděsilo. Slíbili si, že se pokusí vzpamatovat. Čím neopatrnější byli v minulých dnech, tím přesvědčivější musí být nyní jejich herecké výkony. Přísahali si, že si dají maximálně záležet.
 
-3/
-
-  
+## 3/
 
 Závěrečný den byla na programu _fiacolata_, večerní lyžování s hořícími pochodněmi. V pět odpoledne vyjeli společně s průvodkyní a ostatními účastníky zájezdu poslední lanovkou do jedné z několika chat na samém úpatí ledovce, kde byla přichystána slavnostní večeře. Po večeři pili _chianti_ a čekali na tmu. Víno bylo dobré a nálada u stolu překvapivě uvolněná, ale Oskar umíral láskou.
 
@@ -213,9 +207,7 @@ Jakoby nesouhlasně zavrtěla hlavou, a utírajíc si mokré ruce o černé š
 
 „Už to vypuklo,“ řekl Oskar. „Myslím, že už to vypuklo.“
 
-4/
-
-  
+## 4/
 
 Mezi světle šedými oblaky částečně prosvítal měsíc, ale i tak byla tma o něco hlubší, než Oskar čekal. Mrzlo. Pochodně byly vyrovnané podél kamenné zdi srubu; chatařův syn je postupně zapaloval a rozdával přítomným. Všichni si radostně nasazovali čepice a rukavice a spěšně si připínali lyže, ale Oskar náhle nebyl schopen pohybu. Stál, lyže a hůlky v rukou, a třásl se zimou. Všechno mu to připadalo zcela nesmyslné, pitomé: všechny ty drahé lyže, ty pestrobarevné kombinézy, i ty jeho svítivě žluté boty… Připadal si jako kašpar.
 
