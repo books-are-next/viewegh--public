@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Povídky o manželství a o sexu](https://search.mlp.cz/cz/titul/povidky-o-manzelstvi-a-o-sexu/2310876/) tak, jak bylo vydáno nakladatelstvím Druhé Město v Brně v roce 2008. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 24. 1. 2019.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>
